@@ -11,16 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Mathematics and Computing, Birla Institute of Technology (India), 2017
+* M.S. in Statistics and Operations Research, University of Barcelona and Polytechnic University of Catalunya (UPC), 2019
 
 Work experience
 ======
+* May-August 2017: Undergraduate Research Internship
+  * Sobolev Institue of Mathematics and Novosibirsk State University (NSU), Russian Federation
+  * Moscow Instiute of Physics and Technology (MIPT), Russian Federation
 * Summer 2015: Research Assistant
-  * Github University
+  * Indian Institute of Information Technology, Allahabad
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: S
 
 * Fall 2015: Research Assistant
   * Github University
